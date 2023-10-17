@@ -11,21 +11,13 @@
 
 - How to reach me **santosh.nc26@gmail.com,**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/devarshishimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devarshishimpi" height="30" width="40" /></a>
-<a href="https://dev.to/devarshishimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devarshishimpi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18622701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18622701" height="30" width="40" /></a>
-<a href="https://codesandbox.com/devarshishimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="devarshishimpi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devarshishimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devarshishimpi" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Github Stats:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshn26&show_icons=true&theme=dark&locale=en" alt="devarshishimpi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshn26i&theme=dark" alt="santoshn26" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshn26&theme=dark" alt="santoshn26" /></p>
 
 
 <h3 align="left">Support:</h3>
@@ -44,3 +36,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/devarshishimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devarshishimpi" height="30" width="40" /></a>
+<a href="https://dev.to/devarshishimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devarshishimpi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18622701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18622701" height="30" width="40" /></a>
+<a href="https://codesandbox.com/devarshishimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="devarshishimpi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devarshishimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devarshishimpi" height="30" width="40" /></a>
+</p>
+
