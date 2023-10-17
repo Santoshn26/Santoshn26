@@ -23,13 +23,13 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshn&show_icons=true&theme=dark&locale=en" alt="devarshishimpi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santoshn26&show_icons=true&theme=dark&locale=en" alt="devarshishimpi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshni&theme=dark" alt="devarshishimpi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshn26i&theme=dark" alt="devarshishimpi" /></p>
 
 
 <h3 align="left">Support:</h3>
-If You would like to <a href="https://github.com/sponsors/santoshn">support me</a> or my work, please use the below links :)
+If You would like to <a href="https://github.com/sponsors/santoshn26">support me</a> or my work, please use the below links :)
 
 <!--
 **Santoshn26/Santoshn26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
