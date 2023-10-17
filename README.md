@@ -3,7 +3,6 @@
 
 <h1 align="center">Hi 👋, Santosh Nc</h1>
 
-<p align="left"> <img src="`https://komarev.com/ghpvc/`?username=Santoshn26&label=Profile%20views&color=0e75b6&style=flat" alt="Santoshn26" /> </p>
 
 
 - Im currently working as a  **Devops Engineer**
